@@ -1,0 +1,48 @@
+body {
+	font-family: Verdana;
+}
+* {
+	box-sizing: border-box;
+}
+
+/*map styles*/
+.map {
+	float: left;
+	height: 500px;
+	width: 100%;
+}
+
+
+header {
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+	
+}
+.menu {
+	list-style: none;
+	
+}
+.menu-item {
+	display: inline-block;
+}
+
+.sidebar {
+	float: left;
+	width: 20%;
+}
+
+.content {
+	float: right;
+	width: 80%;
+}
+
+footer {
+	float: left;
+	width: 100;
+}
+
+
+/*Custom styles*/
